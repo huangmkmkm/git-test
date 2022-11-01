@@ -18,7 +18,5 @@ public class Student {
         System.out.println("hot-fix £¡£¡£¡£¡£¡commit1");
         System.out.println("hot-fix£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡40");
         System.out.println("hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh");
-
-
     }
 }
