@@ -10,5 +10,7 @@ public class Student {
     public static void main(String[] args) {
         System.out.println("hello git£¡£¡");
         System.out.println("ÂåÂåÀúÏÕ¼Ç");
+        System.out.println("frfnrriofe");
+        System.out.println("hhhhhhhhhhhhhhhhhhhhhhhhhhh");
     }
 }
