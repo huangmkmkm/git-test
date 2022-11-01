@@ -14,5 +14,11 @@ public class Student {
         System.out.println("hello git£¡£¡5");
         System.out.println("master commit!!!!!!!!!!!!!!2");
         System.out.println("hello github2! !");
+        System.out.println("hello git£¡£¡6");
+        System.out.println("hot-fix £¡£¡£¡£¡£¡commit1");
+        System.out.println("hot-fix£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡£¡40");
+        System.out.println("hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh");
+
+
     }
 }
