@@ -9,8 +9,10 @@ package com.trisomy.pojo;
 public class Student {
     public static void main(String[] args) {
         System.out.println("hello git£¡£¡");
-        System.out.println("ÂåÂåÀúÏÕ¼Ç");
-        System.out.println("frfnrriofe");
-        System.out.println("hhhhhhhhhhhhhhhhhhhhhhhhhhh");
+        System.out.println("hello git£¡£¡2");
+        System.out.println("hello git£¡£¡3");
+        System.out.println("hello git£¡£¡4");
+        System.out.println("hello git£¡£¡5");
+        System.out.println("master commit!!!!!!!!!!!!!!2");
     }
 }
